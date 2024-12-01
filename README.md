@@ -3,9 +3,9 @@
 🎯 Cientista de Dados | 💻 Programador | 🌐 Analista
 ---
 
-[![Email](https://img.shields.io/badge/Email-henriquetarginoalbuquerque@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=0&color=DAA520&labelColor=2e2e2e&scale=0.3)](mailto:henriquetarginoalbuquerque@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henriquetargino-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=0&color=DAA520&labelColor=2e2e2e)](https://linkedin.com/in/henriquetargino)
 [![Discord](https://img.shields.io/badge/Discord-henrique_targino-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=0&color=DAA520&labelColor=2e2e2e)](https://discord.com/users/seu-henrique_targino)
+[![Email](https://img.shields.io/badge/Email-henriquetarginoalbuquerque@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=0&color=DAA520&labelColor=2e2e2e&scale=0.3)](mailto:henriquetarginoalbuquerque@gmail.com)
 ## 🚀 **Tecnologias e Ferramentas**
 
 <div align="left">
