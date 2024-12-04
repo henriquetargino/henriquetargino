@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Henrique Targino  
+# 👋 Olá! Eu sou Henrique Targino 
 
 💡 Cientista de Dados | 💻 Programador | XXXXXXXXXX
 ---
