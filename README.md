@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Henrique Targino 
 
-💡 Cientista de Dados | 💻 Programador | XXXXXXXXXX
+💡 Cientista de Dados | 💻 Programador | 🌐 Analista
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henriquetargino-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=0&color=DAA520&labelColor=2e2e2e)](https://linkedin.com/in/henriquetargino)
