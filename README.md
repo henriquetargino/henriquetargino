@@ -24,6 +24,7 @@
 ---
 ## 🌟 Linguagens Mais Usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetargino&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetargino&layout=compact&theme=radical)
+
 
 ---
