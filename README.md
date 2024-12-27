@@ -28,4 +28,5 @@
 
 
 ---
+![snake gif](https://github.com/henriquetargino/henriquetargino/blob/output/github-contribution-grid-snake.svg)
 
