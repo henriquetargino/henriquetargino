@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,9 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+
+      - name: Generate snake animation
+        uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: henriquetargino
           outputs: dist/snake.svg
 
       - name: Commit e Push
