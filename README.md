@@ -20,15 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40" alt="GitHub">
 </div>
 
-
----
-## 🌟 Linguagens Mais Usadas
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetargino&layout=compact&theme=radical)
-
-
----
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquetargino/henriquetargino/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquetargino/henriquetargino/output/github-contribution-grid-snake-dark.svg">
