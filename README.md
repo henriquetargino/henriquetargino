@@ -3,7 +3,7 @@
 
 At 10 years old, during a school activity, the teacher asked what we wanted to be when we grew up. My answer on a piece of paper was simple and direct: **"I want to be IT"**. 
 
-My curiosity to understand how things worked "behind the screens" guided me from an early age. Time passed, and that desire became my reality. Just before turning 18, right after finishing high school, I dove headfirst into the Data Science Bootcamp at [TripleTen Brasil](https://henriquetargino.github.io/Portfolio/images/certificado_tripleten.pdf).
+My curiosity to understand how things worked "behind the screens" guided me from an early age. Time passed, and that desire became my reality. Just before turning 18, right after finishing high school, I dove headfirst into the Data Science Bootcamp at [TripleTen Brazil](https://henriquetargino.github.io/Portfolio/images/certificado_tripleten.pdf).
 
 Today, at 19 years old, I work professionally as a **Data Scientist** and **AI Engineer**. In my day-to-day, I work on developing and deploying Machine Learning models focused on prediction and recommendation systems. 
 
@@ -37,7 +37,7 @@ Python • OpenCV • Numpy • Pandas • Scipy • Scikit-learn • Seaborn �
 
 ## 🏆 Featured Project
 
-- **[Signal for Help - Computer Vision](https://github.com/henriquetargino/sos_computer_vision):** My first major project focused in the area. The system uses the camera to detect and track hand movements in real time, identifying the universal gesture for asking for help. The development gave me immense learning, and the demonstration reached over **40,000 views** on LinkedIn!
+- **[Signal for Help - Computer Vision](https://github.com/henriquetargino/sos_computer_vision):** My first major project focused in the area. The system uses the camera to detect and track hand movements in real time, identifying the universal gesture for asking for help. The development gave me immense learning, and the demonstration reached over **40,000 views** on [LinkedIn](www.linkedin.com/posts/henriquetargino_datascience-python-computervision-activity-7398759818959876096-HeEO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3MTUABr4cje47qJcyWiAb4GZmwYQTKSbg)!
   
    ![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=henriquetargino&repo=sos_computer_vision&theme=tokyonight)
 
