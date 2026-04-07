@@ -37,7 +37,7 @@ Python • OpenCV • Numpy • Pandas • Scipy • Scikit-learn • Seaborn �
 
 ## 🏆 Featured Project
 
-- **[Signal for Help - Computer Vision](https://github.com/henriquetargino/sos_computer_vision):** My first major project focused in the area. The system uses the camera to detect and track hand movements in real time, identifying the universal gesture for asking for help. The development gave me immense learning, and the demonstration reached over **40,000 views** on [LinkedIn](www.linkedin.com/posts/henriquetargino_datascience-python-computervision-activity-7398759818959876096-HeEO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3MTUABr4cje47qJcyWiAb4GZmwYQTKSbg)!
+- **[Signal for Help - Computer Vision](https://github.com/henriquetargino/sos_computer_vision):** My first major project focused in the area. The system uses the camera to detect and track hand movements in real time, identifying the universal gesture for asking for help. The development gave me immense learning, and the demonstration reached over **30,000 views** on [LinkedIn](www.linkedin.com/posts/henriquetargino_datascience-python-computervision-activity-7398759818959876096-HeEO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3MTUABr4cje47qJcyWiAb4GZmwYQTKSbg)!
   
    ![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=henriquetargino&repo=sos_computer_vision&theme=tokyonight)
 
