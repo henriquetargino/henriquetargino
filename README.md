@@ -43,7 +43,7 @@ Python • OpenCV • Numpy • Pandas • Scipy • Scikit-learn • Seaborn �
 
 <br>
 
-- **[My Portfolio - Data Science & AI Projects](https://henriquetargino.github.io/Portfolio/):** A centralized platform where I showcase projects in **Computer Vision, Machine Learning, Data Analysis and AI-driven automation**. Each project highlights not only the final results, but also the reasoning, experimentation, and technical decisions behind the solution. It also includes practical automations from my daily, reflecting my focus on building systems that solve real-world problems.
+- **[My Portfolio - Data Science & AI Projects](https://henriquetargino.github.io/Portfolio/):** A centralized platform where I showcase projects in **Computer Vision, Machine Learning, Neural Networks, Data Analysis and AI-driven automation**. Each project highlights not only the final results, but also the reasoning, experimentation, and technical decisions behind the solution. It also includes practical automations from my daily, reflecting my focus on building systems that solve real-world problems.
 
   ![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=henriquetargino&repo=Portfolio&theme=tokyonight)
 
