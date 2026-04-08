@@ -35,11 +35,17 @@ Python • OpenCV • Numpy • Pandas • Scipy • Scikit-learn • Seaborn �
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Featured Projects
 
-- **[Signal for Help - Computer Vision](https://github.com/henriquetargino/sos_computer_vision):** My first major project focused in the area. The system uses the camera to detect and track hand movements in real time, identifying the universal gesture for asking for help. The development gave me immense learning, and the demonstration reached over **30,000 views** on [LinkedIn](www.linkedin.com/posts/henriquetargino_datascience-python-computervision-activity-7398759818959876096-HeEO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3MTUABr4cje47qJcyWiAb4GZmwYQTKSbg)!
+- **[Signal for Help - Computer Vision](https://github.com/henriquetargino/sos_computer_vision):** My first major project focused in the area. The system uses the camera to detect and track hand movements in real time, identifying the universal gesture for asking for help. The development gave me immense learning, and the demonstration reached over **30,000 views** on [LinkedIn](https://www.linkedin.com/posts/henriquetargino_datascience-python-computervision-activity-7398759818959876096-HeEO)!
   
-   ![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=henriquetargino&repo=sos_computer_vision&theme=tokyonight)
+  ![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=henriquetargino&repo=sos_computer_vision&theme=tokyonight)
+
+<br>
+
+- **[My Portfolio - Data Science & AI Projects](https://henriquetargino.github.io/Portfolio/):** A centralized platform where I showcase projects in **Computer Vision, Machine Learning, Data Analysis and AI-driven automation**. Each project highlights not only the final results, but also the reasoning, experimentation, and technical decisions behind the solution. It also includes practical automations from my daily, reflecting my focus on building systems that solve real-world problems.
+
+  ![Repo Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=henriquetargino&repo=Portfolio&theme=tokyonight)
 
 ---
 
@@ -52,8 +58,10 @@ Python • OpenCV • Numpy • Pandas • Scipy • Scikit-learn • Seaborn �
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriquetargino&theme=tokyonight" />
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquetargino/henriquetargino/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquetargino/henriquetargino/output/github-contribution-grid-snake.svg">
-  <img align="center" src="https://raw.githubusercontent.com/henriquetargino/henriquetargino/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquetargino/henriquetargino/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquetargino/henriquetargino/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/henriquetargino/henriquetargino/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
