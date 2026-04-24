@@ -5,7 +5,7 @@ At 10 years old, during a school activity, the teacher asked what we wanted to b
 
 My curiosity to understand how things worked "behind the screens" guided me from an early age. Time passed, and that desire became my reality. Just before turning 18, right after finishing high school, I dove headfirst into the Data Science Bootcamp at [TripleTen Brazil](https://henriquetargino.github.io/Portfolio/images/certificado_tripleten.pdf).
 
-Today, at 19 years old, I work professionally as a **Data Scientist** and **AI Engineer**. In my day-to-day, I work on developing and deploying Machine Learning models focused on prediction and recommendation systems. 
+Today, I work professionally as a **Data Scientist** and **AI Engineer**. In my day-to-day, I work on developing and deploying Machine Learning models focused on prediction and recommendation systems. 
 
 Although I work across the entire data pipeline, my true fascination is **Computer Vision**. The fact that we can teach a machine to look at the world and distinguish a human hand from a cup is something that has always amazed me. Throughout my journey, I have learned and applied various stages and technologies in building projects:
 
